@@ -51,7 +51,7 @@ Un accordo che tocca i diritti della Chiesa, però, ha bisogno del papa. Eugenio
 
 La pergamena funziona come una matrioska. Bartolomeo ci fa copiare dentro la lettera del papa, che a sua volta contiene la copia dell'accordo di Lucca e di un certificato del podestà.
 
-![Schema dei documenti annidati: l'atto di Bartolomeo contiene la lettera del papa, che contiene l'accordo di Lucca e il certificato del podestà](img/09_matrioska_it.png)
+![Schema dei documenti annidati: l'atto di Bartolomeo contiene la lettera del papa, che contiene l'accordo di Lucca e il certificato del podestà](imgs/09_matrioska_it.png)
 
 Ogni documento ha la sua data, e qui c'è un'insidia che l'AI ha notato da sola: non tutti contavano gli anni allo stesso modo. A Lucca, e nell'atto di Bartolomeo, l'anno cominciava a Natale. La lettera del papa usa invece il computo «dell'Incarnazione», con l'anno che comincia il 25 marzo, come a Firenze. Per questo una lettera scritta nel gennaio 1443 porta la data «1442». Senza questa chiave le date sembrerebbero sbagliate.
 
@@ -66,7 +66,7 @@ Ogni documento ha la sua data, e qui c'è un'insidia che l'AI ha notato da sola:
 
 Eccolo, in fondo all'atto, nell'elenco dei testimoni.
 
-![La riga con la data e i testimoni](img/05_data_testimoni.png)
+![La riga con la data e i testimoni](imgs/05_data_testimoni.png)
 
 *Nei riquadri rossi (aggiunti dall'AI): sopra la data, «die vero Sabbati vicesimasexta mensis Januarii»; sotto il nome del testimone, «Lano [?] Bartholomei Bellaccini».*
 
@@ -114,7 +114,7 @@ La traduzione è scorrevole, non parola per parola. Il latino notarile ripete mo
 
 ### 1. Bartolomeo si presenta
 
-![L'inizio della pergamena](img/01_intestazione.png)
+![L'inizio della pergamena](imgs/01_intestazione.png)
 
 *La prima riga si apre con grandi lettere decorate («Universis… Bartholomeus»), che servono a dare solennità all'atto.*
 
@@ -129,7 +129,7 @@ La traduzione è scorrevole, non parola per parola. Il latino notarile ripete mo
 
 ### 2. La lettera di papa Eugenio IV
 
-![L'inizio della lettera del papa](img/02_eugenius.png)
+![L'inizio della lettera del papa](imgs/02_eugenius.png)
 
 *«Eugenius episcopus servus servorum Dei»: «Eugenio vescovo, servo dei servi di Dio», la formula che apre ogni lettera papale.*
 
@@ -248,7 +248,7 @@ Qui comincia la copia dell'atto notarile con cui, un mese prima, il vescovo e il
 
 #### 3.8 Le guardie per il vescovo
 
-![La clausola sulle guerre](img/03_guerre.png)
+![La clausola sulle guerre](imgs/03_guerre.png)
 
 *«Et quia ex longis guerrarum turbinibus…»: «E poiché per i lunghi turbini delle guerre…».*
 
@@ -264,7 +264,7 @@ Qui comincia la copia dell'atto notarile con cui, un mese prima, il vescovo e il
 
 #### 3.10 Che cosa riceve il vescovo
 
-![Il cero di San Martino](img/04_san_martino.png)
+![Il cero di San Martino](imgs/04_san_martino.png)
 
 *Nei riquadri: «in die festi beati Martini» e «unum cereum de cera…». Il cero di San Martino.*
 
@@ -304,7 +304,7 @@ Qui comincia la copia dell'atto notarile con cui, un mese prima, il vescovo e il
 
 ### 5. La data della lettera papale (9 gennaio 1443)
 
-![La data della lettera papale](img/08_post_quarumquidem.png)
+![La data della lettera papale](imgs/08_post_quarumquidem.png)
 
 *A destra, «Dat. Florentie anno Incarnationis…»: la data della lettera del papa. Sotto, con la grande P, «Post quarumquidem…»: da lì riprende a parlare Bartolomeo.*
 
@@ -329,13 +329,13 @@ Qui comincia la copia dell'atto notarile con cui, un mese prima, il vescovo e il
 
 ### 7. Sigillo, data, testimoni, notaio
 
-![Data e testimoni](img/05_data_testimoni.png)
+![Data e testimoni](imgs/05_data_testimoni.png)
 
 *La riga con «die vero Sabbati vicesimasexta mensis Januarii» (sabato 26 gennaio) e, sotto, il testimone «Lano [?] Bartholomei Bellaccini».*
 
 > In fede e testimonianza di tutto ciò abbiamo fatto redigere questa lettera, cioè questo atto pubblico che contiene il nostro procedimento, e l'abbiamo fatta sottoscrivere e pubblicare dal notaio sottoscritto e munire del nostro sigillo. Dato e fatto a Firenze, nella casa in cui abitiamo, nell'anno dalla Natività del Signore 1443, indizione sesta, sabato 26 gennaio, nel dodicesimo anno del pontificato del nostro signore papa Eugenio IV. Erano presenti, come testimoni chiamati e richiesti apposta, i discreti e onesti uomini maestro Filippo del fu Lemmo da Pescia, notaio del tribunale della Camera apostolica, e Lano [?] di Bartolomeo Bellaccini, cittadino fiorentino.
 
-![Il segno del notaio e la sua sottoscrizione](img/06_segno_notaio.png)
+![Il segno del notaio e la sua sottoscrizione](imgs/06_segno_notaio.png)
 
 *Il segno del notaio (a sinistra) e la sua sottoscrizione. Nel riquadro: «per alium, me aliis occupato negotiis, fideliter scriptum».*
 
@@ -350,7 +350,7 @@ Qui comincia la copia dell'atto notarile con cui, un mese prima, il vescovo e il
 
 ### 8. Il retro
 
-![Il retro della pergamena](img/07_retro.png)
+![Il retro della pergamena](imgs/07_retro.png)
 
 *Il retro, con le annotazioni d'archivio.*
 

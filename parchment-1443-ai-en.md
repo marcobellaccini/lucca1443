@@ -51,7 +51,7 @@ An agreement touching the rights of the Church, however, needs the pope. In thos
 
 The parchment works like a set of Russian dolls. Bartholomew has the pope's letter copied into it, and the letter in turn contains a copy of the Lucca agreement and of a certificate from the city's chief magistrate.
 
-![Diagram of the nested documents: Bartholomew's deed contains the pope's letter, which contains the Lucca agreement and the podestà's certificate](img/09_matrioska_en.png)
+![Diagram of the nested documents: Bartholomew's deed contains the pope's letter, which contains the Lucca agreement and the podestà's certificate](imgs/09_matrioska_en.png)
 
 Each document has its own date, and here there is a trap the AI spotted on its own: not everyone counted years the same way. In Lucca, and in Bartholomew's deed, the year began at Christmas. The pope's letter instead uses the "Incarnation" reckoning, in which the year begins on 25 March, as it did in Florence. That is why a letter written in January 1443 is dated "1442". Without that key, the dates would look wrong.
 
@@ -66,7 +66,7 @@ Each document has its own date, and here there is a trap the AI spotted on its o
 
 Here it is, at the foot of the deed, in the list of witnesses.
 
-![The line with the date and the witnesses](img/05_data_testimoni.png)
+![The line with the date and the witnesses](imgs/05_data_testimoni.png)
 
 *In the red boxes (added by the AI): above, the date, "die vero Sabbati vicesimasexta mensis Januarii"; below, the witness's name, "Lano [?] Bartholomei Bellaccini".*
 
@@ -114,7 +114,7 @@ A note on the English: the AI read the Latin and translated it into Italian firs
 
 ### 1. Bartholomew introduces himself
 
-![The opening of the parchment](img/01_intestazione.png)
+![The opening of the parchment](imgs/01_intestazione.png)
 
 *The first line opens with large decorated letters ("Universis… Bartholomeus"), which give the deed its solemnity.*
 
@@ -129,7 +129,7 @@ A note on the English: the AI read the Latin and translated it into Italian firs
 
 ### 2. The letter of Pope Eugenius IV
 
-![The opening of the pope's letter](img/02_eugenius.png)
+![The opening of the pope's letter](imgs/02_eugenius.png)
 
 *"Eugenius episcopus servus servorum Dei": "Eugenius, bishop, servant of the servants of God", the formula that opens every papal letter.*
 
@@ -248,7 +248,7 @@ Here begins the copy of the notarial deed by which, a month earlier, the bishop 
 
 #### 3.8 Guards for the bishop
 
-![The clause on the wars](img/03_guerre.png)
+![The clause on the wars](imgs/03_guerre.png)
 
 *"Et quia ex longis guerrarum turbinibus…": "And since, through the long whirlwinds of war…".*
 
@@ -264,7 +264,7 @@ Here begins the copy of the notarial deed by which, a month earlier, the bishop 
 
 #### 3.10 What the bishop gets
 
-![The St Martin's candle](img/04_san_martino.png)
+![The St Martin's candle](imgs/04_san_martino.png)
 
 *In the boxes: "in die festi beati Martini" and "unum cereum de cera…". The St Martin's candle.*
 
@@ -304,7 +304,7 @@ Here begins the copy of the notarial deed by which, a month earlier, the bishop 
 
 ### 5. The date of the pope's letter (9 January 1443)
 
-![The date of the papal letter](img/08_post_quarumquidem.png)
+![The date of the papal letter](imgs/08_post_quarumquidem.png)
 
 *On the right, "Dat. Florentie anno Incarnationis…": the date of the pope's letter. Below, with the large P, "Post quarumquidem…": from there Bartholomew speaks again.*
 
@@ -329,13 +329,13 @@ Here begins the copy of the notarial deed by which, a month earlier, the bishop 
 
 ### 7. Seal, date, witnesses, notary
 
-![Date and witnesses](img/05_data_testimoni.png)
+![Date and witnesses](imgs/05_data_testimoni.png)
 
 *The line with "die vero Sabbati vicesimasexta mensis Januarii" (Saturday 26 January) and, below, the witness "Lano [?] Bartholomei Bellaccini".*
 
 > In faith and witness of all this we have had this letter drawn up, that is, this public instrument containing our proceedings, and have had it subscribed and published by the undersigned notary and furnished with our seal. Given and done at Florence, in the house where we dwell, in the year from the Nativity of the Lord 1443, sixth indiction, on Saturday the 26th of January, in the twelfth year of the pontificate of our lord Pope Eugenius IV. Present, as witnesses specially summoned and asked, were the discreet and honest men Master Filippo, son of the late Lemmo, of Pescia, notary of the court of the Apostolic Chamber, and Lano [?] di Bartolomeo Bellaccini, citizen of Florence.
 
-![The notary's sign and subscription](img/06_segno_notaio.png)
+![The notary's sign and subscription](imgs/06_segno_notaio.png)
 
 *The notary's sign (left) and his subscription. In the box: "per alium, me aliis occupato negotiis, fideliter scriptum".*
 
@@ -350,7 +350,7 @@ Here begins the copy of the notarial deed by which, a month earlier, the bishop 
 
 ### 8. The back
 
-![The back of the parchment](img/07_retro.png)
+![The back of the parchment](imgs/07_retro.png)
 
 *The back, with the archival notes.*
 

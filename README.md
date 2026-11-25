@@ -18,4 +18,4 @@ An experiment by Marco Bellaccini: having an AI read, translate and explain a 14
 
 Lettura, traduzione, commento e stesura sono opera di un'AI (Claude Opus 5.5 e Claude Fable 5.2) e non sono stati verificati da specialisti. / Reading, translation, commentary and write-up were done by an AI (Claude Opus 5.5 and Claude Fable 5.2) and have not been checked by specialists.
 
-Le immagini in `img/` sono ritagli di screenshot della riproduzione digitale pubblicata sul portale Archivi Nazionali (Ministero della Cultura). / The images in `img/` are cropped screenshots of the digital reproduction published on the Archivi Nazionali portal (Italian Ministry of Culture).
+Le immagini in `imgs/` sono ritagli di screenshot della riproduzione digitale pubblicata sul portale Archivi Nazionali (Ministero della Cultura). / The images in `imgs/` are cropped screenshots of the digital reproduction published on the Archivi Nazionali portal (Italian Ministry of Culture).
